@@ -1,0 +1,501 @@
+ID,x,y,Slot,Safety,Lokasi
+P1,10,5,12,Aman,1
+P2,15,12,4,Kurang aman,0
+P3,7,3,0,Tidak aman,1
+P4,20,8,15,Aman,0
+P5,-5,4,2,Kurang aman,1
+P6,-10,-3,18,Aman,0
+P7,3,18,0,Tidak aman,1
+P8,12,-6,7,Outdoor,1
+P9,-7,9,4,Aman,0
+P10,6,-10,3,Kurang aman,1
+P11,14,2,11,Indoor,0
+P12,-12,7,5,Aman,1
+P13,9,-4,6,Kurang aman,0
+P14,4,14,2,Outdoor,1
+P15,-3,11,1,Aman,0
+P16,17,-8,8,Tidak aman,1
+P17,-14,-6,10,Aman,1
+P18,2,-12,0,Tidak aman,0
+P19,-9,15,6,Kurang aman,1
+P20,13,9,12,Indoor,0
+P21,8,11,4,Aman,1
+P22,-6,-10,9,Tidak aman,0
+P23,16,4,3,Kurang aman,1
+P24,-2,-8,5,Aman,1
+P25,11,-11,2,Tidak aman,0
+P26,5,6,13,Kurang aman,1
+P27,-15,3,7,Outdoor,0
+P28,18,-2,10,Aman,1
+P29,0,13,1,Kurang aman,1
+P30,-7,-4,0,Tidak aman,0
+P31,19,6,12,Aman,1
+P32,-11,12,8,Indoor,1
+P33,4,-14,2,Tidak aman,0
+P34,-4,16,9,Kurang aman,1
+P35,12,14,6,Aman,0
+P36,-16,-5,5,Aman,1
+P37,6,-3,0,Tidak aman,1
+P38,3,7,7,Outdoor,0
+P39,10,10,3,Kurang aman,1
+P40,-8,-12,4,Tidak aman,0
+P41,14,-9,8,Aman,1
+P42,-10,5,11,Kurang aman,1
+P43,7,-7,0,Tidak aman,0
+P44,-13,8,6,Aman,1
+P45,9,16,2,Outdoor,0
+P46,-1,-13,3,Kurang aman,1
+P47,15,3,9,Aman,1
+P48,-5,18,0,Tidak aman,0
+P49,11,-5,4,Indoor,1
+P50,-9,2,7,Kurang aman,0
+P51,16,12,5,Aman,1
+P52,-14,-2,1,Tidak aman,1
+P53,2,10,10,Kurang aman,0
+P54,13,-3,11,Aman,1
+P55,0,-9,3,Tidak aman,0
+P56,-6,15,6,Aman,1
+P57,18,10,9,Outdoor,1
+P58,-8,-1,8,Kurang aman,0
+P59,10,7,0,Tidak aman,1
+P60,-12,-8,13,Aman,0
+P61,5,12,5,Kurang aman,1
+P62,8,-12,4,Tidak aman,1
+P63,-7,14,2,Aman,0
+P64,17,9,7,Indoor,1
+P65,-11,-4,3,Kurang aman,1
+P66,6,4,1,Aman,0
+P67,-3,-11,0,Tidak aman,1
+P68,9,3,8,Kurang aman,0
+P69,-15,6,5,Aman,1
+P70,12,16,9,Outdoor,1
+P71,4,-6,1,Tidak aman,0
+P72,-10,10,7,Kurang aman,1
+P73,14,-1,10,Aman,1
+P74,-6,3,0,Tidak aman,0
+P75,7,-10,2,Kurang aman,1
+P76,-8,17,6,Aman,1
+P77,11,-8,8,Outdoor,0
+P78,-4,-14,3,Tidak aman,1
+P79,15,5,12,Kurang aman,0
+P80,-12,13,9,Aman,1
+P81,3,-7,0,Tidak aman,1
+P82,19,2,11,Indoor,0
+P83,-9,8,4,Kurang aman,1
+P84,13,7,7,Aman,1
+P85,-2,-5,1,Tidak aman,0
+P86,6,15,3,Kurang aman,1
+P87,-14,-7,5,Aman,1
+P88,17,-3,6,Outdoor,0
+P89,-8,12,8,Kurang aman,1
+P90,10,-13,4,Tidak aman,1
+P91,-5,9,3,Aman,0
+P92,4,18,7,Kurang aman,1
+P93,-11,0,6,Aman,1
+P94,16,-10,2,Tidak aman,0
+P95,-7,6,0,Kurang aman,1
+P96,12,3,11,Indoor,1
+P97,-13,15,5,Aman,0
+P98,8,-9,3,Tidak aman,1
+P99,-3,4,7,Kurang aman,1
+P100,14,11,8,Aman,0
+P101,16,7,5,Aman,1
+P102,-8,-15,3,Tidak aman,0
+P103,5,11,9,Kurang aman,1
+P104,11,-14,6,Outdoor,1
+P105,-14,4,8,Aman,1
+P106,9,2,2,Kurang aman,0
+P107,-3,-8,11,Aman,1
+P108,17,13,0,Tidak aman,0
+P109,-6,16,7,Indoor,1
+P110,13,-7,4,Kurang aman,1
+P111,4,9,12,Aman,0
+P112,-10,-11,1,Tidak aman,1
+P113,8,-5,10,Aman,1
+P114,15,-9,3,Outdoor,0
+P115,-7,13,6,Kurang aman,1
+P116,12,6,9,Aman,1
+P117,-4,-14,2,Tidak aman,0
+P118,6,14,8,Indoor,1
+P119,-13,9,5,Kurang aman,1
+P120,10,-12,7,Aman,0
+P121,3,5,4,Tidak aman,1
+P122,-9,-7,11,Aman,1
+P123,14,8,1,Kurang aman,0
+P124,7,-15,6,Outdoor,1
+P125,-11,14,9,Aman,1
+P126,5,-8,3,Tidak aman,0
+P127,16,3,8,Kurang aman,1
+P128,-2,10,5,Aman,1
+P129,13,-4,2,Indoor,0
+P130,-8,6,10,Kurang aman,1
+P131,9,12,7,Aman,1
+P132,4,-11,0,Tidak aman,0
+P133,-15,8,4,Aman,1
+P134,11,5,9,Kurang aman,1
+P135,6,-13,1,Outdoor,0
+P136,-12,15,6,Aman,1
+P137,8,-6,3,Tidak aman,1
+P138,15,9,8,Kurang aman,0
+P139,-5,11,5,Aman,1
+P140,12,-9,2,Indoor,1
+P141,3,7,10,Kurang aman,0
+P142,-10,-9,7,Aman,1
+P143,7,10,0,Tidak aman,1
+P144,14,-2,4,Aman,0
+P145,-6,14,9,Kurang aman,1
+P146,10,4,1,Outdoor,1
+P147,-13,7,6,Aman,1
+P148,5,-10,3,Tidak aman,0
+P149,17,6,8,Kurang aman,1
+P150,-3,12,5,Aman,1
+P151,13,-8,2,Indoor,0
+P152,9,8,10,Kurang aman,1
+P153,4,-14,7,Aman,1
+P154,-8,10,0,Tidak aman,0
+P155,16,5,4,Aman,1
+P156,-11,13,9,Kurang aman,1
+P157,6,-7,1,Outdoor,1
+P158,12,10,6,Aman,0
+P159,-4,-12,3,Tidak aman,1
+P160,15,2,8,Kurang aman,1
+P161,7,11,5,Aman,0
+P162,-9,-8,2,Indoor,1
+P163,11,-6,10,Kurang aman,1
+P164,3,9,7,Aman,1
+P165,-14,5,0,Tidak aman,0
+P166,8,4,4,Aman,1
+P167,-7,15,9,Kurang aman,1
+P168,14,-1,1,Outdoor,0
+P169,-12,8,6,Aman,1
+P170,5,-9,3,Tidak aman,1
+P171,18,7,8,Kurang aman,0
+P172,-5,10,5,Aman,1
+P173,13,-5,2,Indoor,1
+P174,9,6,10,Kurang aman,0
+P175,4,-13,7,Aman,1
+P176,-10,11,0,Tidak aman,1
+P177,16,4,4,Aman,1
+P178,-8,14,9,Kurang aman,0
+P179,6,-8,1,Outdoor,1
+P180,12,9,6,Aman,1
+P181,-3,-11,3,Tidak aman,1
+P182,15,1,8,Kurang aman,0
+P183,7,10,5,Aman,1
+P184,-11,-9,2,Indoor,1
+P185,10,-7,10,Kurang aman,0
+P186,2,8,7,Aman,1
+P187,-13,6,0,Tidak aman,1
+P188,8,3,4,Aman,0
+P189,-6,16,9,Kurang aman,1
+P190,14,-2,1,Outdoor,1
+P191,-9,9,6,Aman,1
+P192,5,-10,3,Tidak aman,0
+P193,17,8,8,Kurang aman,1
+P194,-4,12,5,Aman,1
+P195,13,-6,2,Indoor,0
+P196,11,7,10,Kurang aman,1
+P197,3,-12,7,Aman,1
+P198,-8,13,0,Tidak aman,1
+P199,15,5,4,Aman,0
+P200,-12,15,9,Kurang aman,1
+P201,6,-9,1,Outdoor,1
+P202,12,10,6,Aman,1
+P203,-5,-10,3,Tidak aman,0
+P204,16,2,8,Kurang aman,1
+P205,7,12,5,Aman,1
+P206,-10,-8,2,Indoor,1
+P207,9,-7,10,Kurang aman,0
+P208,4,9,7,Aman,1
+P209,-14,7,0,Tidak aman,1
+P210,8,5,4,Aman,0
+P211,-7,14,9,Kurang aman,1
+P212,13,-3,1,Outdoor,1
+P213,-11,10,6,Aman,1
+P214,5,-8,3,Tidak aman,0
+P215,18,6,8,Kurang aman,1
+P216,-6,11,5,Aman,1
+P217,14,-4,2,Indoor,0
+P218,10,8,10,Kurang aman,1
+P219,3,-11,7,Aman,1
+P220,-9,12,0,Tidak aman,1
+P221,16,3,4,Aman,0
+P222,-8,15,9,Kurang aman,1
+P223,7,-7,1,Outdoor,1
+P224,11,11,6,Aman,1
+P225,-4,-9,3,Tidak aman,0
+P226,15,4,8,Kurang aman,1
+P227,6,13,5,Aman,1
+P228,-12,-7,2,Indoor,1
+P229,9,-6,10,Kurang aman,0
+P230,5,10,7,Aman,1
+P231,-13,8,0,Tidak aman,1
+P232,8,6,4,Aman,1
+P233,-6,17,9,Kurang aman,0
+P234,14,-1,1,Outdoor,1
+P235,-10,11,6,Aman,1
+P236,4,-9,3,Tidak aman,1
+P237,17,7,8,Kurang aman,0
+P238,-5,13,5,Aman,1
+P239,12,-5,2,Indoor,1
+P240,10,9,10,Kurang aman,1
+P241,2,-10,7,Aman,0
+P242,-8,14,0,Tidak aman,1
+P243,15,6,4,Aman,1
+P244,-11,16,9,Kurang aman,1
+P245,6,-8,1,Outdoor,0
+P246,13,11,6,Aman,1
+P247,-3,-8,3,Tidak aman,1
+P248,16,3,8,Kurang aman,0
+P249,7,14,5,Aman,1
+P250,-9,-6,2,Indoor,1
+P251,11,-6,10,Kurang aman,1
+P252,5,11,7,Aman,0
+P253,-14,9,0,Tidak aman,1
+P254,9,7,4,Aman,1
+P255,-7,15,9,Kurang aman,1
+P256,14,-2,1,Outdoor,0
+P257,-12,12,6,Aman,1
+P258,4,-7,3,Tidak aman,1
+P259,18,5,8,Kurang aman,1
+P260,-6,12,5,Aman,0
+P261,13,-3,2,Indoor,1
+P262,10,10,10,Kurang aman,1
+P263,3,-9,7,Aman,1
+P264,-10,13,0,Tidak aman,0
+P265,16,4,4,Aman,1
+P266,-8,16,9,Kurang aman,1
+P267,7,-6,1,Outdoor,1
+P268,12,12,6,Aman,0
+P269,-5,-7,3,Tidak aman,1
+P270,15,5,8,Kurang aman,1
+P271,6,15,5,Aman,1
+P272,-11,-5,2,Indoor,0
+P273,9,-5,10,Kurang aman,1
+P274,5,12,7,Aman,1
+P275,-13,10,0,Tidak aman,1
+P276,8,8,4,Aman,0
+P277,-6,18,9,Kurang aman,1
+P278,14,0,1,Outdoor,1
+P279,-9,13,6,Aman,1
+P280,4,-8,3,Tidak aman,0
+P281,17,8,8,Kurang aman,1
+P282,-4,14,5,Aman,1
+P283,12,-4,2,Indoor,1
+P284,11,11,10,Kurang aman,0
+P285,2,-9,7,Aman,1
+P286,-8,15,0,Tidak aman,1
+P287,15,7,4,Aman,1
+P288,-10,17,9,Kurang aman,0
+P289,6,-7,1,Outdoor,1
+P290,13,13,6,Aman,1
+P291,-2,-6,3,Tidak aman,1
+P292,16,4,8,Kurang aman,0
+P293,7,16,5,Aman,1
+P294,-9,-4,2,Indoor,1
+P295,10,-5,10,Kurang aman,1
+P296,5,13,7,Aman,0
+P297,-14,11,0,Tidak aman,1
+P298,9,9,4,Aman,1
+P299,-7,16,9,Kurang aman,1
+P300,14,-1,1,Outdoor,0
+P301,-11,14,6,Aman,1
+P302,3,-6,3,Tidak aman,1
+P303,18,6,8,Kurang aman,0
+P304,-5,13,5,Aman,1
+P305,13,-2,2,Indoor,1
+P306,11,12,10,Kurang aman,1
+P307,2,-8,7,Aman,0
+P308,-9,14,0,Tidak aman,1
+P309,16,5,4,Aman,1
+P310,-7,17,9,Kurang aman,1
+P311,8,-5,1,Outdoor,0
+P312,12,14,6,Aman,1
+P313,-4,-5,3,Tidak aman,1
+P314,15,6,8,Kurang aman,1
+P315,6,17,5,Aman,0
+P316,-10,-3,2,Indoor,1
+P317,9,-4,10,Kurang aman,1
+P318,4,14,7,Aman,1
+P319,-12,12,0,Tidak aman,0
+P320,7,10,4,Aman,1
+P321,-6,19,9,Kurang aman,1
+P322,14,1,1,Outdoor,1
+P323,-8,15,6,Aman,0
+P324,3,-7,3,Tidak aman,1
+P325,17,9,8,Kurang aman,1
+P326,-3,15,5,Aman,1
+P327,12,-3,2,Indoor,0
+P328,10,13,10,Kurang aman,1
+P329,1,-8,7,Aman,1
+P330,-7,16,0,Tidak aman,1
+P331,15,8,4,Aman,0
+P332,-9,18,9,Kurang aman,1
+P333,7,-6,1,Outdoor,1
+P334,13,15,6,Aman,1
+P335,-1,-4,3,Tidak aman,0
+P336,16,5,8,Kurang aman,1
+P337,5,18,5,Aman,1
+P338,-8,-2,2,Indoor,1
+P339,11,-3,10,Kurang aman,0
+P340,4,15,7,Aman,1
+P341,-13,13,0,Tidak aman,1
+P342,8,11,4,Aman,1
+P343,-5,17,9,Kurang aman,0
+P344,14,2,1,Outdoor,1
+P345,-10,16,6,Aman,1
+P346,2,-5,3,Tidak aman,1
+P347,18,7,8,Kurang aman,0
+P348,-4,14,5,Aman,1
+P349,13,-1,2,Indoor,1
+P350,12,14,10,Kurang aman,1
+P351,0,-7,7,Aman,0
+P352,-8,15,0,Tidak aman,1
+P353,16,6,4,Aman,1
+P354,-6,18,9,Kurang aman,1
+P355,8,-4,1,Outdoor,0
+P356,12,16,6,Aman,1
+P357,-3,-3,3,Tidak aman,1
+P358,15,7,8,Kurang aman,1
+P359,5,19,5,Aman,0
+P360,-9,-1,2,Indoor,1
+P361,10,-2,10,Kurang aman,1
+P362,3,16,7,Aman,1
+P363,-11,14,0,Tidak aman,0
+P364,7,12,4,Aman,1
+P365,-5,18,9,Kurang aman,1
+P366,14,3,1,Outdoor,1
+P367,-7,17,6,Aman,0
+P368,1,-4,3,Tidak aman,1
+P369,17,8,8,Kurang aman,1
+P370,-2,15,5,Aman,1
+P371,13,0,2,Indoor,0
+P372,11,15,10,Kurang aman,1
+P373,-1,-6,7,Aman,1
+P374,-6,16,0,Tidak aman,1
+P375,15,9,4,Aman,0
+P376,-7,19,9,Kurang aman,1
+P377,9,-3,1,Outdoor,1
+P378,12,17,6,Aman,1
+P379,-2,-2,3,Tidak aman,1
+P380,16,8,8,Kurang aman,0
+P381,4,20,5,Aman,1
+P382,-8,0,2,Indoor,1
+P383,12,-1,10,Kurang aman,1
+P384,2,17,7,Aman,0
+P385,-10,15,0,Tidak aman,1
+P386,8,13,4,Aman,1
+P387,-4,19,9,Kurang aman,1
+P388,14,4,1,Outdoor,0
+P389,-6,18,6,Aman,1
+P390,0,-3,3,Tidak aman,1
+P391,18,9,8,Kurang aman,1
+P392,-1,16,5,Aman,0
+P393,14,1,2,Indoor,1
+P394,13,16,10,Kurang aman,1
+P395,-2,-5,7,Aman,1
+P396,-5,17,0,Tidak aman,0
+P397,16,10,4,Aman,1
+P398,-5,20,9,Kurang aman,1
+P399,10,-2,1,Outdoor,1
+P400,11,18,6,Aman,0
+P401,-1,-1,3,Tidak aman,1
+P402,17,9,8,Kurang aman,1
+P403,3,21,5,Aman,1
+P404,-7,1,2,Indoor,0
+P405,13,0,10,Kurang aman,1
+P406,1,18,7,Aman,1
+P407,-9,16,0,Tidak aman,1
+P408,9,14,4,Aman,0
+P409,-3,20,9,Kurang aman,1
+P410,15,5,1,Outdoor,1
+P411,-5,19,6,Aman,1
+P412,-1,-2,3,Tidak aman,0
+P413,19,10,8,Kurang aman,1
+P414,0,17,5,Aman,1
+P415,15,2,2,Indoor,1
+P416,14,17,10,Kurang aman,0
+P417,-3,-4,7,Aman,1
+P418,-4,18,0,Tidak aman,1
+P419,17,11,4,Aman,1
+P420,-3,21,9,Kurang aman,0
+P421,11,-1,1,Outdoor,1
+P422,10,19,6,Aman,1
+P423,0,0,3,Tidak aman,1
+P424,18,10,8,Kurang aman,0
+P425,2,22,5,Aman,1
+P426,-6,2,2,Indoor,1
+P427,14,1,10,Kurang aman,1
+P428,0,19,7,Aman,0
+P429,-8,17,0,Tidak aman,1
+P430,10,15,4,Aman,1
+P431,-2,21,9,Kurang aman,1
+P432,16,6,1,Outdoor,0
+P433,-4,20,6,Aman,1
+P434,-2,-1,3,Tidak aman,1
+P435,20,11,8,Kurang aman,1
+P436,-1,18,5,Aman,0
+P437,16,3,2,Indoor,1
+P438,15,18,10,Kurang aman,1
+P439,-4,-3,7,Aman,1
+P440,-3,19,0,Tidak aman,0
+P441,18,12,4,Aman,1
+P442,-1,22,9,Kurang aman,1
+P443,12,0,1,Outdoor,1
+P444,9,20,6,Aman,0
+P445,1,1,3,Tidak aman,1
+P446,19,11,8,Kurang aman,1
+P447,1,23,5,Aman,1
+P448,-5,3,2,Indoor,0
+P449,15,2,10,Kurang aman,1
+P450,-1,20,7,Aman,1
+P451,-7,18,0,Tidak aman,1
+P452,11,16,4,Aman,0
+P453,-1,22,9,Kurang aman,1
+P454,17,7,1,Outdoor,1
+P455,-3,21,6,Aman,1
+P456,-3,0,3,Tidak aman,0
+P457,21,12,8,Kurang aman,1
+P458,-2,19,5,Aman,1
+P459,17,4,2,Indoor,1
+P460,16,19,10,Kurang aman,0
+P461,-5,-2,7,Aman,1
+P462,-2,20,0,Tidak aman,1
+P463,19,13,4,Aman,1
+P464,0,23,9,Kurang aman,1
+P465,13,1,1,Outdoor,0
+P466,8,21,6,Aman,1
+P467,2,2,3,Tidak aman,1
+P468,20,12,8,Kurang aman,1
+P469,2,24,5,Aman,0
+P470,-4,4,2,Indoor,1
+P471,16,3,10,Kurang aman,1
+P472,-2,21,7,Aman,1
+P473,-6,19,0,Tidak aman,0
+P474,12,17,4,Aman,1
+P475,0,23,9,Kurang aman,1
+P476,18,8,1,Outdoor,1
+P477,-2,22,6,Aman,0
+P478,-4,1,3,Tidak aman,1
+P479,22,13,8,Kurang aman,1
+P480,-3,20,5,Aman,1
+P481,18,5,2,Indoor,1
+P482,17,20,10,Kurang aman,0
+P483,-6,-1,7,Aman,1
+P484,-1,21,0,Tidak aman,1
+P485,20,14,4,Aman,1
+P486,1,24,9,Kurang aman,1
+P487,14,2,1,Outdoor,0
+P488,7,22,6,Aman,1
+P489,3,3,3,Tidak aman,1
+P490,21,13,8,Kurang aman,1
+P491,3,25,5,Aman,0
+P492,-3,5,2,Indoor,1
+P493,17,4,10,Kurang aman,1
+P494,-3,22,7,Aman,1
+P495,-5,20,0,Tidak aman,1
+P496,13,18,4,Aman,0
+P497,1,24,9,Kurang aman,1
+P498,19,9,1,Outdoor,1
+P499,-1,23,6,Aman,1
+P500,-5,2,3,Tidak aman,0

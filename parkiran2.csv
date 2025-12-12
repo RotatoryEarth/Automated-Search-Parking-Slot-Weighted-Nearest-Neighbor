@@ -1,0 +1,101 @@
+ID,x,y,Slot,Safety,Lokasi
+P1,10,5,12,Aman,1
+P2,15,12,4,Kurang aman,0
+P3,7,3,0,Tidak aman,1
+P4,20,8,15,Aman,0
+P5,-5,4,2,Kurang aman,1
+P6,-10,-3,18,Aman,0
+P7,3,18,0,Tidak aman,1
+P8,12,-6,7,Outdoor,1
+P9,-7,9,4,Aman,0
+P10,6,-10,3,Kurang aman,1
+P11,14,2,11,Indoor,0
+P12,-12,7,5,Aman,1
+P13,9,-4,6,Kurang aman,0
+P14,4,14,2,Outdoor,1
+P15,-3,11,1,Aman,0
+P16,17,-8,8,Tidak aman,1
+P17,-14,-6,10,Aman,1
+P18,2,-12,0,Tidak aman,0
+P19,-9,15,6,Kurang aman,1
+P20,13,9,12,Indoor,0
+P21,8,11,4,Aman,1
+P22,-6,-10,9,Tidak aman,0
+P23,16,4,3,Kurang aman,1
+P24,-2,-8,5,Aman,1
+P25,11,-11,2,Tidak aman,0
+P26,5,6,13,Kurang aman,1
+P27,-15,3,7,Outdoor,0
+P28,18,-2,10,Aman,1
+P29,0,13,1,Kurang aman,1
+P30,-7,-4,0,Tidak aman,0
+P31,19,6,12,Aman,1
+P32,-11,12,8,Indoor,1
+P33,4,-14,2,Tidak aman,0
+P34,-4,16,9,Kurang aman,1
+P35,12,14,6,Aman,0
+P36,-16,-5,5,Aman,1
+P37,6,-3,0,Tidak aman,1
+P38,3,7,7,Outdoor,0
+P39,10,10,3,Kurang aman,1
+P40,-8,-12,4,Tidak aman,0
+P41,14,-9,8,Aman,1
+P42,-10,5,11,Kurang aman,1
+P43,7,-7,0,Tidak aman,0
+P44,-13,8,6,Aman,1
+P45,9,16,2,Outdoor,0
+P46,-1,-13,3,Kurang aman,1
+P47,15,3,9,Aman,1
+P48,-5,18,0,Tidak aman,0
+P49,11,-5,4,Indoor,1
+P50,-9,2,7,Kurang aman,0
+P51,16,12,5,Aman,1
+P52,-14,-2,1,Tidak aman,1
+P53,2,10,10,Kurang aman,0
+P54,13,-3,11,Aman,1
+P55,0,-9,3,Tidak aman,0
+P56,-6,15,6,Aman,1
+P57,18,10,9,Outdoor,1
+P58,-8,-1,8,Kurang aman,0
+P59,10,7,0,Tidak aman,1
+P60,-12,-8,13,Aman,0
+P61,5,12,5,Kurang aman,1
+P62,8,-12,4,Tidak aman,1
+P63,-7,14,2,Aman,0
+P64,17,9,7,Indoor,1
+P65,-11,-4,3,Kurang aman,1
+P66,6,4,1,Aman,0
+P67,-3,-11,0,Tidak aman,1
+P68,9,3,8,Kurang aman,0
+P69,-15,6,5,Aman,1
+P70,12,16,9,Outdoor,1
+P71,4,-6,1,Tidak aman,0
+P72,-10,10,7,Kurang aman,1
+P73,14,-1,10,Aman,1
+P74,-6,3,0,Tidak aman,0
+P75,7,-10,2,Kurang aman,1
+P76,-8,17,6,Aman,1
+P77,11,-8,8,Outdoor,0
+P78,-4,-14,3,Tidak aman,1
+P79,15,5,12,Kurang aman,0
+P80,-12,13,9,Aman,1
+P81,3,-7,0,Tidak aman,1
+P82,19,2,11,Indoor,0
+P83,-9,8,4,Kurang aman,1
+P84,13,7,7,Aman,1
+P85,-2,-5,1,Tidak aman,0
+P86,6,15,3,Kurang aman,1
+P87,-14,-7,5,Aman,1
+P88,17,-3,6,Outdoor,0
+P89,-8,12,8,Kurang aman,1
+P90,10,-13,4,Tidak aman,1
+P91,-5,9,3,Aman,0
+P92,4,18,7,Kurang aman,1
+P93,-11,0,6,Aman,1
+P94,16,-10,2,Tidak aman,0
+P95,-7,6,0,Kurang aman,1
+P96,12,3,11,Indoor,1
+P97,-13,15,5,Aman,0
+P98,11,-24,9,Tidak aman,1
+P99,-10,21,1,Kurang aman,1
+P100,14,11,8,Aman,0
